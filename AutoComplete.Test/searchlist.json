@@ -1,0 +1,40 @@
+[
+  {
+    "term": "abstract",
+    "expect": [
+      "abstract",
+      "abstracts"
+    ]
+  },
+  {
+    "term": "program",
+    "expect": [
+      "program",
+      "programme",
+      "programmer",
+      "programmers",
+      "programmes",
+      "programming",
+      "programs"
+    ]
+  },
+  {
+    "term": "softw",
+    "expect": [
+      "software"
+    ]
+  },
+  {
+    "term": "visib",
+    "expect": [
+      "visibility",
+      "visible"
+    ]
+  },
+  {
+    "term": "warcraft",
+    "expect": [
+      "warcraft"
+    ]
+  }
+]
